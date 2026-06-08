@@ -24,3 +24,4 @@ Python, OpenCV, NumPy, ONNX Runtime, Streamlit, Ollama, Qwen 2.5.
 
 ## Демонстрация
 
+https://github.com/user-attachments/assets/96a60678-0883-4f76-8c18-462f12b0ca2b
